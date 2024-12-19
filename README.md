@@ -60,8 +60,11 @@ This software system enables a role-based experience for managing and participat
 - Log in using the credentials from ```users.json``` (username: ```admin```, password: ```1234```).
 - Add questions with prompts.
 
-**Sample Video**
-https://github.com/user-attachments/assets/3172e144-c2eb-4382-b56f-606272ce26d7
+**Sample**
+<video controls>
+  <source src="https://github.com/user-attachments/assets/3172e144-c2eb-4382-b56f-606272ce26d7" type="video/mp4">
+  <p>Sample video for admin section</p>
+</video>
 
 ## Student Test:
 
@@ -70,5 +73,9 @@ https://github.com/user-attachments/assets/3172e144-c2eb-4382-b56f-606272ce26d7
 - Answer the questions interactively.
 - View the result after completing the quiz.
 
-**Sample Video**
-https://github.com/user-attachments/assets/ac22764c-76b3-40f0-8b17-c9dc25ff698f
+**Sample**
+<video controls>
+  <source src="https://github.com/user-attachments/assets/ac22764c-76b3-40f0-8b17-c9dc25ff698f" type="video/mp4">
+  <p>Sample video for student section</p>
+</video>
+
